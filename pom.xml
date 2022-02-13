@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<d:project xmlns:d="http://maven.apache.org/POM/4.0.0"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <d:modelVersion>4.0.0</d:modelVersion>
+
+    <d:groupId>org.example</d:groupId>
+    <d:artifactId>11 bro</d:artifactId>
+    <d:version>1.0-SNAPSHOT</d:version>
+
+    <d:properties>
+        <d:maven.compiler.source>8</d:maven.compiler.source>
+        <d:maven.compiler.target>8</d:maven.compiler.target>
+    </d:properties>
+ <!--   <d:dependency>
+        <d:groupId></d:groupId>
+        <d:artifactId></d:artifactId>
+        <d:version></d:version>
+    </d:dependency>-->
+     https://mvnrepository.com/artifact/junit/junit -->
+<!--
+    <d:dependency>
+        <d:groupId>junit</d:groupId>
+        <d:artifactId>junit</d:artifactId>
+        <d:version>4.12</d:version>
+   &lt;!&ndash;  //   <scope>test</scope>&ndash;&gt;
+    </d:dependency>
+-->
+
+
+</d:project>

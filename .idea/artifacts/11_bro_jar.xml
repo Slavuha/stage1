@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="11 bro:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/11_bro_jar</output-path>
+    <root id="archive" name="11 bro.jar">
+      <element id="module-output" name="11 bro" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/junit-4.12.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
